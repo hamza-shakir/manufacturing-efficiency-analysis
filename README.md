@@ -1,9 +1,5 @@
 # Manufacturing Line Productivity Analysis  
 
-This repository contains an Excel-based project focused on analyzing and improving efficiency in a soda bottling production line. The analysis leverages documented data over five days, including information on operators, products, start and end times, and downtime factors, to uncover critical insights and recommend actionable improvements.  
-
----
-
 ## 📋 **Table of Contents**  
 1. [Background and Overview](#background-and-overview)  
 2. [Executive Summary](#executive-summary)  
@@ -20,6 +16,13 @@ This repository contains an Excel-based project focused on analyzing and improvi
 In a soda bottling production line, there have been a few issues resulting in decreased efficiency and output over a span of five days. The documented data includes information on operators, products, start and end times, and downtime factors for each batch.  
 
 This project thoroughly analyzes the data to uncover critical insights that can help remediate and alleviate inefficiencies in the manufacturer’s production process.  
+
+We will do so by answering the following questions:
+
+- What's the current line efficiency? (total time / min time)
+- Are any operators underperforming?
+- What are the leading factors for downtime?
+- Do any operators struggle with particular types of operator error?
 
 ---
 
